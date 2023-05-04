@@ -1,0 +1,40 @@
+.container {
+    display: ;
+}
+
+.child {
+    height: 100px;
+    width: 100px;
+    border-style: dashed;
+    border-width: 2px;
+    margin: 5px;
+}
+
+#bloco1 {
+    background-color: lightyellow;
+}
+
+#bloco2 {
+    background-color: lightpink;
+}
+
+#bloco3 {
+    background-color: lightblue;
+}
+
+#bloco4 {
+    background-color: lightgreen;
+}
+
+#bloco5 {
+    background-color: lightsalmon;
+}
+
+#bloco6 {
+    background-color: lightsteelblue;
+}
+
+#bloco7 {
+    background-color: lightcyan;
+}
+
